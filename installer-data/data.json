@@ -1,4 +1,28 @@
 {
+  "4nonimizer" : { 
+    "name" : "4nonimizer",
+    "package_name" : "4nonimizer",
+    "category" : [null],
+    "url" : "https://github.com/Hackplayers/4nonimizer.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
+  "A-Rat" : { 
+    "name" : "A-Rat",
+    "package_name" : "A-Rat",
+    "category" : ["exploitation_tools"],
+    "url" : "https://github.com/Xi4u7/A-Rat.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "ADB-Toolkit" : { 
+    "name" : "ADB-Toolkit",
+    "package_name" : "ADB-Toolkit",
+    "category" : [null],
+    "url" : "https://github.com/ASHWIN990/ADB-Toolkit.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
   "ATSCAN" : { 
     "name" : "ATSCAN",
     "package_name" : "ATSCAN",
@@ -7,11 +31,67 @@
     "package_manager" : "git",
     "dependency" : ["git"]
   },
+  "AndroBugs_Framework" : { 
+    "name" : "AndroBugs_Framework",
+    "package_name" : "AndroBugs_Framework",
+    "category" : [null],
+    "url" : "https://github.com/AndroBugs/AndroBugs_Framework.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "Androspy" : { 
+    "name" : "Androspy",
+    "package_name" : "Androspy",
+    "category" : [null],
+    "url" : "https://github.com/TunisianEagles/Androspy.git",
+    "package_manager" : "git",
+    "dependency" : ["git"]
+  },
+  "AutoPixieWps" : { 
+    "name" : "AutoPixieWps",
+    "package_name" : "AutoPixieWps",
+    "category" : [null],
+    "url" : "https://github.com/nxxxu/AutoPixieWps.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "Automater" : { 
+    "name" : "Automater",
+    "package_name" : "TekDefense-Automater",
+    "category" : ["information_gathering"],
+    "url" : "https://github.com/1aN0rmus/TekDefense-Automater.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
   "Auxscan" : { 
     "name" : "Auxscan",
     "package_name" : "Auxscan",
     "category" : [null],
     "url" : "https://github.com/Gameye98/Auxscan.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "BAF" : { 
+    "name" : "BAF",
+    "package_name" : "BAF",
+    "category" : [null],
+    "url" : "https://github.com/engMaher/BAF.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "BadMod" : { 
+    "name" : "BadMod",
+    "package_name" : "BadMod",
+    "category" : [null],
+    "url" : "https://github.com/MrSqar-Ye/BadMod.git",
+    "package_manager" : "git",
+    "dependency" : ["php","git"]
+  },
+  "BeeLogger" : { 
+    "name" : "BeeLogger",
+    "package_name" : "BeeLogger",
+    "category" : [null],
+    "url" : "https://github.com/4w4k3/BeeLogger.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
@@ -68,6 +148,14 @@
     "package_name" : "CMSeeK",
     "category" : [null],
     "url" : "https://github.com/Tuhinshubhra/CMSeeK.git",
+    "package_manager" : "git",
+    "dependency" : ["python","git"]
+  },
+  "CMSmap" : { 
+    "name" : "CMSmap",
+    "package_name" : "CMSmap",
+    "category" : ["information_gathering"],
+    "url" : "https://github.com/Dionach/CMSmap.git",
     "package_manager" : "git",
     "dependency" : ["python","git"]
   },
