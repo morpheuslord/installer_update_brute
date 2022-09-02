@@ -1,7 +1,5 @@
 
 
-
-
 ![Icon](https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode/blob/main/icons/cmder.ico)
 [![Twitter](https://img.shields.io/badge/twitter-@Morpheuslord2-red.svg)](https://twitter.com/Morpheuslord2)
 [![Hackernoon](https://hackernoon.com/_next/image?url=https%3A%2F%2Fhackernoon.com%2Fhn-logo.png&w=256&q=75)](https://hackernoon.com/u/morpheuslord)
@@ -42,4 +40,35 @@ Run the tools for example
 ```bash
   λ brute
 ```
+
+
+## Installation and Deployment
+
+Installation: 
+
+The installation is easy you just need to have the requirements satisfied and the installer downloaded.
+
+REQUIREMENTS:
+
+* 32 GB USB 3.0 Pendrive
+* Windows 10/11
+
+Thats it.
+
+Deployment:
+
+To run the project you need to first install the latest installer from my download links given below which gets updated once a new realese is done.
+
+```url
+
+```
+After downloading just run the exe file accept the terms, select the install location and run the exe file once installed.
+
+## Usage/Examples
+
+Youtube:
+
+* https://www.youtube.com/watch?v=5tC7vXub2Us
+* https://www.youtube.com/watch?v=FTGpkr8pN6Q
+* https://www.youtube.com/watch?v=FTGpkr8pN6Q
 
