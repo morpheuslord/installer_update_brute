@@ -22,6 +22,15 @@ The installer.sh script is located on https://github.com/morpheuslord/installer_
 The other optimization is that in the previous version everything was scattered and had a lot of useless tools so i organized it and removed some of the useless tools making it better for fast and reliable usage.
 
 I also included metasploit into the framework and this requires you to add exception in your anitivirus software to run smoothly.
+## Features
+
+- Portable
+- Does not require any software dependencies
+- Fast and reliable
+- Easily upgradable
+- Contains more than 60+ tools and more space for improvement
+
+
 ## Basic Commands
 
 First run the brute-framework.exe
@@ -64,7 +73,7 @@ To run the project you need to first install the latest installer from my downlo
 ```
 After downloading just run the exe file accept the terms, select the install location and run the exe file once installed.
 
-## Usage/Examples
+## YT Videos
 
 Youtube:
 
