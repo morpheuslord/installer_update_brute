@@ -96,6 +96,7 @@ And git clone the project from above.
 - Move the bin.rar contents to the bin folder
 - Move the git-for-windows.rar contents to the vendor folder
 - run the main brute-Framework.exe file to varify.
+- *NOTE* - the files root must be in the `C:\` directory
  
 ## YT Videos
 
