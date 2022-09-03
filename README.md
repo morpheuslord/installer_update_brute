@@ -59,9 +59,9 @@ The installation is easy you just need to have the requirements satisfied and th
 
 REQUIREMENTS:
 
-* 32 GB USB 3.0 Pendrive
-* Windows 10/11
-
+- 32GB or high USB 3.0 Pendrive
+- Windows 10/11
+- System must have atleast 4GB ram with a resonable processor
 Thats it.
 
 Deployment:
