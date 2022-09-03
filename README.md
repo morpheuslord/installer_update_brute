@@ -82,6 +82,16 @@ Youtube:
 * https://www.youtube.com/watch?v=FTGpkr8pN6Q
 
 
+## Versions and Lookup-Links
+
+
+#### Previous versions:
+
+| Name                | Discription                        | Link                                                               |
+| :------------------ | :--------------------------------- | :----------------------------------------------------------------- |
+| PassInfo            | Sketch Project for brute-framework | https://github.com/morpheuslord/passinfo.cmd                       |
+| Brute-framework V-1 | First Completed Project            | https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode |
+
 ## Further updates
 
 The current update I am working on is the package installer or the `update-installer.sh` filei am trying to make it more like a package installer.
