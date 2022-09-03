@@ -81,3 +81,17 @@ Youtube:
 * https://www.youtube.com/watch?v=FTGpkr8pN6Q
 * https://www.youtube.com/watch?v=FTGpkr8pN6Q
 
+
+## Further updates
+
+The current update I am working on is the package installer or the `update-installer.sh` filei am trying to make it more like a package installer.
+
+Currently it uses the updated file from another repo of mine to update but i want to eliminate that need.
+
+By the way if you know any cool tool that is compatible with windows add that in the installer file it will rise the tools the users like yourself and others can use making it even better.
+
+
+## Support and contact
+
+For support regarding the tool contact me via email my email `morpheuslord@protonmail.com`.
+
