@@ -51,7 +51,7 @@ Run the tools for example
 ```
 
 
-## Installation and Deployment
+## Installation and Deployment of Brute-Framework V2
 
 Installation: 
 
@@ -73,6 +73,30 @@ To run the project you need to first install the latest installer from my downlo
 ```
 After downloading just run the exe file accept the terms, select the install location and run the exe file once installed.
 
+## Brute-Framework V1 Downloads
+
+To Download fully working Brute-Framework V1 you can follow 2 methoads 
+
+#### Method 1: `Installer`
+
+- Downloads The installer file from this link:
+`http://www.mediafire.com/file/as5ab1sz7cot6qg/brute-setup.exe/file`
+
+- Run the File and download it in your `C:\` Drive.
+
+#### Method 2: `Git Clone`
+- Download The files via the given links:
+Bin :- 
+`https://www.mediafire.com/file/0ivv3sqczf81oo8/bin.rar/file`
+
+Git For Windows:- `https://www.mediafire.com/file/1ua95g02vbww6nq/git-for-windows.rar/file`
+
+And git clone the project from above.
+
+- Move the bin.rar contents to the bin folder
+- Move the git-for-windows.rar contents to the vendor folder
+- run the main brute-Framework.exe file to varify.
+ 
 ## YT Videos
 
 Youtube:
@@ -87,10 +111,10 @@ Youtube:
 
 #### Previous versions:
 
-| Name                | Discription                        | Link                                                               |
-| :------------------ | :--------------------------------- | :----------------------------------------------------------------- |
-| PassInfo            | Sketch Project for brute-framework | https://github.com/morpheuslord/passinfo.cmd                       |
-| Brute-framework V-1 | First Completed Project            | https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode |
+| Name      | Discription | Link                              |
+| :-------- | :---------- | :-------------------------------- |
+| PassInfo  | Sketch Project for brute-framework| https://github.com/morpheuslord/passinfo.cmd |
+| Brute-framework V-1| First Completed Project| https://github.com/morpheuslord/Brute-Hacking-Framework-SourceCode|
 
 ## Further updates
 
