@@ -31,6 +31,13 @@ I also included metasploit into the framework and this requires you to add excep
 - Contains more than 60+ tools and more space for improvement
 
 
+## Note
+
+Because I have intigrated metasploit framework into the package we might have to add an exception in your antivirus software to the folder you are installing if in 
+```
+C:\bin or C:\brute-framework
+```
+Then add C:\bin in your antivirus exception it differs depending on your software installed just lookitup on the docs or on the internet.
 ## Basic Commands
 
 First run the brute-framework.exe
@@ -69,7 +76,7 @@ Deployment:
 To run the project you need to first install the latest installer from my download links given below which gets updated once a new realese is done.
 
 ```url
-
+https://mega.nz/file/H7oVnBDA#1OcEjx1iIydY38fq0_KdaLLtXgHBB0z1lCpru_28yxg
 ```
 After downloading just run the exe file accept the terms, select the install location and run the exe file once installed.
 
@@ -129,4 +136,9 @@ By the way if you know any cool tool that is compatible with windows add that in
 ## Support and contact
 
 For support regarding the tool contact me via email my email `morpheuslord@protonmail.com`.
+
+
+## Authors
+
+- [@morpheuslord](https://www.github.com/morpheuslord)
 
